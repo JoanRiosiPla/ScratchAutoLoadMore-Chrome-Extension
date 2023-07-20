@@ -1,0 +1,71 @@
+form input{
+    border-radius: 20px;
+    border-width: 2px;
+    text-align: center;
+    padding: 3px;
+    border-color:gold;
+    transition: 0.1s;
+}
+
+form input:focus {
+    scale: 104%;
+    transition: 0.1s;
+}
+
+form label{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 500;
+}
+
+h1 {
+    text-align: center;
+}
+
+button {
+    border-radius: 20px;
+    border-color:gold;
+    background-color: rgb(255, 248, 208);
+    font-weight: 600;
+    padding: 3px;
+    transition: 0.1s;
+    margin-top: 0.4rem;
+}
+
+button:hover {
+    scale: 104%;
+    transition: 0.1s;
+}
+
+button:active {
+    scale: 95%;
+    transition: 0.1s;
+}
+
+body {
+    height: fit-content;
+    margin: 20px;
+}
+
+html {
+    height: fit-content;
+}
+
+.current {
+    overflow: hidden;
+    width: fit-content;
+    height: 1rem;
+    max-width: 150px;
+}
+
+p {
+    margin: 0;
+}
+
+.current {
+    height: fit-content;
+    max-height: 1rem;
+}
+
+#support_me {
+    text-align: center;
+}

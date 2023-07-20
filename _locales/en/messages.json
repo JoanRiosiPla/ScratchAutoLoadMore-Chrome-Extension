@@ -1,0 +1,12 @@
+{
+    "title": {
+        "message": "Scratch Always Load More",
+        "description": "The title of the popup"
+    },
+    "save": {
+        "message": "Save"
+    },
+    "support": {
+        "message": "Help me with a donation"
+    }
+}

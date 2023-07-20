@@ -1,0 +1,12 @@
+{
+    "title": {
+        "message": "Scratch Sempre Carega'n Més",
+        "description": "The title of the popup"
+    },
+    "save": {
+        "message": "Guardar"
+    },
+    "support": {
+        "message": "Ajuda'm amb una donació"
+    }
+}
